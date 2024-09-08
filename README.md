@@ -18,9 +18,9 @@ Open your terminal or command line interface, navigate to the root directory of 
 npm install
 ```
 
-## 3. Start the development app
-In the same terminal, run the following command to start the development app:
-```plaintext
+## 3. Start the development server
+In the same terminal, run the following command to start the development server:
+```s
 npm run start
 ```
 
